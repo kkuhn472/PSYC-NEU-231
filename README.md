@@ -2,7 +2,7 @@
 
 
 # PSYC-NEU 231: Tools for Experimental Data Analysis 
-Instructors: John Serences and Timothy Sheehan
+Instructors: John Serences and Timothy Sheehan 
 
 Time/Location: Weds 9-11:50am, Crick Conference Room (Mandler Hall Rm 3545, on the Muir Campus).  
 
